@@ -19,8 +19,3 @@ Numerical Weather Prediction (NWP) models have long been used for weather foreca
 - **Real-time Data Processing:** Predict accurate weather conditions every six hours for a ten-day forecast.
 - **Critical Weather Forecasting Alerts:** Forecast severe weather events like thunderstorms, turbulence, and icing.
 - **Sophisticated UI:** Present complex weather data in an easy-to-understand interface.
-
-
-
-
-t
