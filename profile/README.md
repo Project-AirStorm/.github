@@ -1,4 +1,4 @@
-# Airstörm GFS
+# Airstorm GFS
 
 ## Members
 - Ellie Gafford
@@ -9,7 +9,7 @@
 - Vincent Hartline
 
 ## Objective and Problem Statement
-Numerical Weather Prediction (NWP) models have long been used for weather forecasts, but they require significant time, expertise, and costly computing resources for accurate predictions. To remain competitive, the Air Force Global Strike Command (AFGSC) must leverage emerging technologies. The objective is to implement a generative AI weather forecasting model, **GraphCast**, to enhance AFGSC's capabilities, aiming for:
+The purpose of this project is to implement GraphCast, a generative artificial intelligence weather prediction model developed by Google DeepMind, into a weather visualization tool for the Air Force Global Strike Command (AFGSC). The AFGSC currently uses Numerical Weather Prediction (NWP) models to form weather predictions, which although reliable, require extense expterise, immense computing power, hours of computation. GraphCast has been trained on decades of historical weather data, specifically the ECMWF’s ERA5 reanalysis archive, and can provide a 10-day weather forecast within a minute using a single Google TPU v4 machine. Some of the key success metrics that will be used to demonstrate GraphCast's efficency over current NWP models are:
 
 - **30%** improvement in weather forecast accuracy
 - **20%** reduction in mission planning and response time
