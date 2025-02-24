@@ -14,7 +14,7 @@ Project Airstorm is an advanced weather visualization tool integrating **GraphCa
 🔗 **Services & APIs Used**  
 - **Weather Data:** [OpenMeteo](https://open-meteo.com/), [MeteoSource](https://www.meteosource.com/), [NWS Alerts](https://www.weather.gov/documentation/services-web-api#/)  
 - **AI & Mapping:** [Google Gemini](https://ai.google.dev/), [Reverse Geolocation](https://developers.google.com/maps/documentation/geocoding/requests-reverse-geocoding), [Google Maps](https://developers.google.com/maps/documentation/javascript/overview)  
-- **Infrastructure:** [AWS](https://aws.amazon.com/), [GitHub Actions](https://github.com/features/actions), [MySQL](https://www.mysql.com/), [Clerk Authentication](https://clerk.com/)  
+- **Infrastructure:** [AWS](https://aws.amazon.com/), [GitHub Actions](https://github.com/features/actions), [MySQL](https://www.mysql.com/), [Clerk Authentication](https://clerk.com/), [StreamChat](https://getstream.io/chat/)
 
 🎯 **Key Features**  
 - Real-time **GraphCast AI** weather predictions  
