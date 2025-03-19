@@ -1,4 +1,4 @@
-# AirStorm GFS: AI-Powered Weather Forecasting for AFGSC Aviation  
+# Heimdall: AI-Powered Weather Forecasting for AFGSC Aviation  
 
 ## Check out our [website](https://projectairstorm.com/)!
 
